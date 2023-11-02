@@ -10,4 +10,4 @@ EC2 can do a multiple of tasks example:
 6. Disaster Revocery
 
 Here are images of the EC2 instance that have been spinned up and connected.
-![Screenshot](Assignment 2.2 SC4)
+![EC2 Spinned and connected](<Assignment 2.2 SC 4-1.png>)
