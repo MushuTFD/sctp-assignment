@@ -1,6 +1,6 @@
 # Assignment 2.13
 
-Succinctly explain what is Cloud Architecture Design - Performance? between 100 to 200 words.
+Succinctly explain what is Cloud Architecture Design - Performance?
 
 
 
